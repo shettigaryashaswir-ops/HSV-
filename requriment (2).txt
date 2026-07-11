@@ -1,4 +1,6 @@
 streamlit
-opencv-python-headless
-Pillow
 numpy
+Pillow
+scikit-learn
+opencv-python-headless
+
